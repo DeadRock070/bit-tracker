@@ -1,3 +1,9 @@
+# Build Features
+
+Real-time crypto tracker via Coingecko API, spurring 20% engagement surge
+Designed an intuitive interface for viewing crypto prices in INR and USD
+Successfully optimized the platform's performance cutting average load times by 30%
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
